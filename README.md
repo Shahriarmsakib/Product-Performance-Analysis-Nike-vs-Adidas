@@ -63,11 +63,11 @@ Execute the "Database_built.sql" script to create the "sports.db" SQLite databas
 
 Import the following CSV files as tables into the database:
 
-info.csv
-finance.csv
-brands.csv
-traffic.csv
-reviews.csv
+- info.csv
+- finance.csv
+- brands.csv
+- traffic.csv
+- reviews.csv
 Export the updated "sports.db" after importing the tables.
 
 Utilize the "Product Performance Analysis Nike vs Adidas.ipynb" Jupyter notebook to analyze the data within the "sports.db" database.
